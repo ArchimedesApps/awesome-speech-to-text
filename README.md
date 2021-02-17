@@ -6,3 +6,6 @@ Awesome Archive of Speech to Test Toolkits
 
 ## DeepMind WaveNet
 - https://github.com/buriburisuri/speech-to-text-wavenet
+
+## Watson Speech to Text
+- https://github.com/watson-developer-cloud/speech-to-text-nodejs
